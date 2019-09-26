@@ -1,0 +1,12 @@
+/* Global */
+.container {
+    max-width: 400px;
+    padding: 0 20px;
+    margin: 0 auto;   
+}
+section {
+    padding: 25px 0;
+}
+h3 {
+    font-style: italic;
+}
