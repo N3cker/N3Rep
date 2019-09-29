@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/N3cker/N3Rep/issues"
   },
-  "homepage": "https://github.com/N3cker/N3Rep#readme"
+  "homepage": "https://github.com/N3cker/N3Rep#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  }
 }
